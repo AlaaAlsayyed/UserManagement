@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>UserManagement</name>
+    </assembly>
+    <members>
+        <member name="M:UserManagement.Controllers.UsersController.Get">
+            <summary>
+            List all users in mongo db
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:UserManagement.Controllers.UsersController.Get(System.String)">
+            <summary>
+            Get user by id
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:UserManagement.Controllers.UsersController.Create(UserManagement.Models.User)">
+            <summary>
+             insert new user in Users collection
+            </summary>
+            <param name="user"></param>
+            <returns></returns>
+        </member>
+        <member name="M:UserManagement.Controllers.UsersController.Search(UserManagement.Models.SearchUserModel)">
+            <summary>
+            get users who are matching the filter criteria
+            </summary>
+            <param name="search"></param>
+            <returns></returns>
+        </member>
+        <member name="M:UserManagement.Controllers.UsersController.Update(System.String,UserManagement.Models.User)">
+            <summary>
+            replace user who has this id with current current users
+            </summary>
+            <param name="id"></param>
+            <param name="UserIn"></param>
+            <returns></returns>
+        </member>
+        <member name="M:UserManagement.Controllers.UsersController.Delete(System.String)">
+            <summary>
+             Delete user who has this id
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

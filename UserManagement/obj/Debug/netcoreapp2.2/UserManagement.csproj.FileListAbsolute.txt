@@ -1,0 +1,16 @@
+C:\Users\Alaa\source\repos\UserManagement\UserManagement\bin\Debug\netcoreapp2.2\UserManagement.deps.json
+C:\Users\Alaa\source\repos\UserManagement\UserManagement\bin\Debug\netcoreapp2.2\UserManagement.runtimeconfig.json
+C:\Users\Alaa\source\repos\UserManagement\UserManagement\bin\Debug\netcoreapp2.2\UserManagement.runtimeconfig.dev.json
+C:\Users\Alaa\source\repos\UserManagement\UserManagement\bin\Debug\netcoreapp2.2\UserManagement.dll
+C:\Users\Alaa\source\repos\UserManagement\UserManagement\obj\Debug\netcoreapp2.2\UserManagement.csprojAssemblyReference.cache
+C:\Users\Alaa\source\repos\UserManagement\UserManagement\obj\Debug\netcoreapp2.2\UserManagement.csproj.CoreCompileInputs.cache
+C:\Users\Alaa\source\repos\UserManagement\UserManagement\obj\Debug\netcoreapp2.2\UserManagement.RazorAssemblyInfo.cache
+C:\Users\Alaa\source\repos\UserManagement\UserManagement\obj\Debug\netcoreapp2.2\UserManagement.RazorAssemblyInfo.cs
+C:\Users\Alaa\source\repos\UserManagement\UserManagement\obj\Debug\netcoreapp2.2\UserManagement.AssemblyInfoInputs.cache
+C:\Users\Alaa\source\repos\UserManagement\UserManagement\obj\Debug\netcoreapp2.2\UserManagement.AssemblyInfo.cs
+C:\Users\Alaa\source\repos\UserManagement\UserManagement\obj\Debug\netcoreapp2.2\UserManagement.RazorTargetAssemblyInfo.cache
+C:\Users\Alaa\source\repos\UserManagement\UserManagement\bin\Debug\netcoreapp2.2\UserManagement.pdb
+C:\Users\Alaa\source\repos\UserManagement\UserManagement\obj\Debug\netcoreapp2.2\UserManagement.dll
+C:\Users\Alaa\source\repos\UserManagement\UserManagement\obj\Debug\netcoreapp2.2\UserManagement.pdb
+C:\Users\Alaa\source\repos\UserManagement\UserManagement\bin\Debug\netcoreapp2.2\UserManagement.xml
+C:\Users\Alaa\source\repos\UserManagement\UserManagement\obj\Debug\netcoreapp2.2\UserManagement.xml
